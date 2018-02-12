@@ -1,0 +1,49 @@
+.container{
+    width: 1000px;
+    background-color: #dddfd4;
+    border: 10px #dddfd4;
+    margin: 0px; 
+    display: inline-block;
+    padding: 10px;    
+}
+body{
+    margin: 0px;
+}   
+.header{
+    height: 50px;
+    background-color: #38b0ad;
+    font-family: 'Verdana';
+}
+.cat-logo{
+    width: 30px;
+    display: inline-block;
+    padding: 10px 0px 0px 20px;
+}
+.header h3{
+    color: black;
+    display: inline-block;
+    margin: 0px;
+    padding-top: 10px;
+    vertical-align: top;
+    font-size: 24px;
+    
+}
+.question-list{
+    display: inline-block;
+    list-style-type: none;
+    margin-left: 250px;
+    font-size: 12px;
+    vertical-align: middle;
+    margin-left: 30px;
+    
+}
+.question-list li{
+    display: inline-block;
+    color: white;
+    text-decoration: underline;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    vertical-align: top;
+
+    
+}

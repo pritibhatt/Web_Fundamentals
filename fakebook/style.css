@@ -1,0 +1,80 @@
+.container {
+    width: 1000px;
+    border: 1px solid black;
+}
+.header {
+    background-color: #3c5b99;
+    padding: 20px 0px 0px 100px;
+}
+.header h1 {
+    color: white;
+    display: inline-block;
+}
+.input-field {
+    display: inline-block;
+    color: white;
+    vertical-align: top;
+}
+.input-field input{
+    display: block;
+}
+.input-field a {
+    color: #9cb4d8
+}
+.first-field {
+    margin-left: 300px;
+}
+.header button {
+    background-color: blue;
+    color: white;
+    vertical-align: top;
+    margin-top: 20px;
+}
+.main-content {
+    background-color: silver;
+    height: 500px;
+    padding: 25px 100px 25px 100px;
+}
+.connect {
+    width: 350px;
+    display: inline-block
+}
+.connect h2 {
+    margin: 0px;
+}
+.connect ul {
+    list-style-type: none;
+    padding: 0px;
+}
+.connect span {
+    font-weight: bold;
+}
+.sign-up{
+    width: 350px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px 0px 0px 30px;
+}
+.sign-up h2{
+    font-size: 36px;
+    margin: 0px 0px 0px 30px;
+    font-weight: bold;
+ }
+ .sign-up h3{
+    margin: 0px 0px 20px 30px;
+    font-size: 24px;
+    font-weight: normal;
+ }
+.sign-up form{
+    display: block;
+    border-width: 4px;
+    padding: 5px;
+  }
+  .first-name{
+    margin-left: 0px 0px 0px 40px;
+    display: inline-block;
+  }
+  .last-name{
+      display: inline-block;
+      margin: 0px;
+  }

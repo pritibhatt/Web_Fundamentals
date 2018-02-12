@@ -1,0 +1,49 @@
+.container{
+    width: 970px;
+    border: 1 px solid black;
+}
+.header{
+    background-color: #245076;
+    height: 400px;
+     
+   }
+.font-type{
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 450px;
+}
+.header h5{
+    color: white;
+    display: inline-block;
+    margin: 0px;
+    padding: 10px;
+        
+}
+
+.python-logo{
+    width: 250px;
+
+}
+.header u{
+    color: yellow;
+}
+.header bold{
+    color: black;
+}
+.search-box{
+    background-color: #444444;
+    padding: 20px;
+}
+.more-info li{
+    display: inline-block;
+    padding: 30px;
+    
+   
+}
+.more-info{
+    background-color: goldenrod;
+    text-align: center;
+
+}
+  
+ 

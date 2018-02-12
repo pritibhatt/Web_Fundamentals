@@ -1,0 +1,162 @@
+.container{
+    width: 1000px;
+    background-color: black;
+    border: 10px black;
+    display: inline-block;
+    padding: 10px;
+         
+}
+body{
+    margin: 10px;
+}
+.header{
+    height: 90px;
+    display: inline-block;
+    background-color: black;
+    display: inline-block;
+    
+}
+.header h1{
+    color: white; 
+    margin-bottom: 0px; 
+    display: inline-block;
+    margin-right: 70px;
+     
+}
+.home-list{
+    margin: 0px;
+    display: inline-block;
+}
+.home-list li{
+    color: white;
+    display: inline-block;
+    list-style-type: none;
+    font-size: 18px;
+    padding-right: 50px;
+    padding-left: 5px;
+   
+}
+.main-content{
+    height: 1200px;
+    background-color: white;
+}
+.mountain{
+    width: 94%;
+    padding: 30px;
+}
+.three-box-info{
+    height: 300px;
+    padding-left: 30px;
+    margin: 0px;
+    display: inline-block;
+       
+}
+.box-content{
+    width: 250px;
+    background-color: #1468a8;
+    display: inline-block;
+    padding: 10px;
+    margin-right: 30px;
+    
+    
+}
+.wranch{
+    height: 30px;
+    padding-top: 20px;
+}
+.box-content h2{
+    display: inline-block;
+    margin: 0px;
+    vertical-align: top;
+    margin-top: 20px;
+    font-size: 30px;
+    color: white;
+}
+.box-content p{
+    color: white;
+}
+.more-info{
+    width: 120px;
+    background-color:#1992de; 
+    border: none;
+    color: white;
+    border-radius:5px;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 18px;
+}
+.next-content{
+    display: inline-block;
+    color: black;
+    margin: 0px;
+    padding-left: 30px;
+}
+.next-content h2{
+    display: inline-block;
+      
+}
+.next-content p{
+    display: inline-block;
+    font-weight: bold;
+    font-size: 24px;
+    margin-left: 300px;
+}
+.last-sec{
+    height: 300px;
+    display: inline-block;
+}
+
+.building-pic{
+    padding-left: 30px;
+    display: inline-block;
+    vertical-align: top;
+}
+.para-info{
+    display: inline-block;
+    width: 300px;
+    
+}
+.para-info p{
+    margin-top: 0px;
+}
+.testimonial-info{
+    display: inline-block;
+    width: 300px;
+    vertical-align: top;
+    
+}
+.testimonial-info p{
+    margin-top: 20px;
+    display: inline-block;
+    padding: 20px;
+    
+}
+.testimonial-info h4{
+    padding: 20px;
+    color: #919da6;
+}
+
+.footer{
+    height: 60px; 
+    margin: 0px;
+    display: inline-block;
+    background-color: lightskyblue;
+    border-top: 2px solid black;
+    padding-top: 5px;
+    
+}
+.home-list{
+    width: 960px;
+    text-align: center;
+    display: inline-block;
+    margin-top: 20px;
+}
+.home-list li{
+    color: #6291b4;
+    display: inline-block;
+    list-style-type: none;
+    font-size: 18px;
+    /* padding-right: 50px;
+    padding-left: 5px; */
+     
+}
